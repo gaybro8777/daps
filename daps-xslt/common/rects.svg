@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC 
-  "-//W3C//DTD SVG 1.0//EN" 
-  "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" 
- width="10cm" height="10cm">
- 
-  <rect x="0pt" y="0pt" width="20%" height="20%" class="foo" 
-   fill="lightgray" stroke="blue" stroke-width="2pt"/>
-  <rect x="30pt" y="30pt" width="30%" height="40%" style="fill:green"/>
-  <rect x="60pt" y="60pt" width="30%" height="40%" fill="blue"/>
-  <rect x="80pt" y="100pt" width="30%" height="50%" fill="blue" 
-   style="fill:yellow ; color:red; display:block;stroke-dashoffset:2pt"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm"><rect width="20%" height="20%" x="0" y="0" fill="#d3d3d3" stroke="#00f" stroke-width="2pt" class="foo"/><rect width="30%" height="40%" x="40" y="40" style="fill:green"/><rect width="30%" height="40%" x="80" y="80" fill="#00f"/><rect width="30%" height="50%" x="80pt" y="100pt" fill="#00f" style="fill:#ff0;color:red;display:block;stroke-dashoffset:2pt"/></svg>
